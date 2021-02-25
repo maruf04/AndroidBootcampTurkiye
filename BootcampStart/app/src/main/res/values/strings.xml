@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Bootcamp Start</string>
+    <string name="hello_bootcamp">Hello Bootcamp</string>
+    <string name="degistir">Degistir</string>
 </resources>
